@@ -90,7 +90,7 @@ function drawText() {
   if (frameNumber < 300) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "Hey Ridhi❤️, Everyday day I cannot believe how lucky I am",
+      "Hey ❤️, Everyday day I cannot believe how lucky I am",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -284,7 +284,7 @@ function drawText() {
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
         [
-        "Varidhi, life's journey becomes truly",
+        "Life's journey becomes truly",
           "meaningful with you by my side!",
         ],
         canvas.width / 2,
