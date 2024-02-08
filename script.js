@@ -306,7 +306,7 @@ function drawText() {
   if (frameNumber >= 3600 && frameNumber < 99999) {
     context.fillStyle = `rgba(255, 255, 255, ${thirdOpacity})`;
     context.fillText(
-      "Varidhi Will You Be Mine For Life Tym?",
+      "Will You Be Mine For Life Tym?",
       canvas.width / 2,
       canvas.height / 2 + 120
     );
